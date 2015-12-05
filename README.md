@@ -3,4 +3,4 @@
 
 - 数据来源:[和风天气](http://www.heweather.com/)
 - 数据格式:JSON
-- 数据制作过程:[芮星晨的博客](www.ruixingchen.com)
+- 数据制作过程:[芮星晨的博客](http://www.ruixingchen.com/archives/90)
