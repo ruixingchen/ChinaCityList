@@ -1,6 +1,7 @@
 [
   {
     "provinceName": "北京",
+    "provincePY": "beijing",
     "city": [
       {
         "cityName": "北京",
@@ -86,6 +87,7 @@
   },
   {
     "provinceName": "上海",
+    "provincePY": "shanghai",
     "city": [
       {
         "cityName": "上海",
@@ -156,6 +158,7 @@
   },
   {
     "provinceName": "天津",
+    "provincePY": "tianjin",
     "city": [
       {
         "cityName": "天津",
@@ -231,6 +234,7 @@
   },
   {
     "provinceName": "重庆",
+    "provincePY": "chongqing",
     "city": [
       {
         "cityName": "重庆",
@@ -411,6 +415,7 @@
   },
   {
     "provinceName": "黑龙江",
+    "provincePY": "heilongjiang",
     "city": [
       {
         "cityName": "哈尔滨",
@@ -901,6 +906,7 @@
   },
   {
     "provinceName": "吉林",
+    "provincePY": "jilin",
     "city": [
       {
         "cityName": "长春",
@@ -1206,6 +1212,7 @@
   },
   {
     "provinceName": "辽宁",
+    "provincePY": "liaoning",
     "city": [
       {
         "cityName": "沈阳",
@@ -1571,6 +1578,7 @@
   },
   {
     "provinceName": "内蒙古",
+    "provincePY": "neimenggu",
     "city": [
       {
         "cityName": "呼和浩特",
@@ -2276,6 +2284,7 @@
   },
   {
     "provinceName": "河北",
+    "provincePY": "hebei",
     "city": [
       {
         "cityName": "石家庄",
@@ -3086,6 +3095,7 @@
   },
   {
     "provinceName": "山西",
+    "provincePY": "shanxi",
     "city": [
       {
         "cityName": "太原",
@@ -3706,6 +3716,7 @@
   },
   {
     "provinceName": "陕西",
+    "provincePY": "shanxi",
     "city": [
       {
         "cityName": "西安",
@@ -4271,6 +4282,7 @@
   },
   {
     "provinceName": "山东",
+    "provincePY": "shandong",
     "city": [
       {
         "cityName": "济南",
@@ -4971,6 +4983,7 @@
   },
   {
     "provinceName": "新疆",
+    "provincePY": "xinjiang",
     "city": [
       {
         "cityName": "乌鲁木齐",
@@ -5566,6 +5579,7 @@
   },
   {
     "provinceName": "西藏",
+    "provincePY": "xizang",
     "city": [
       {
         "cityName": "拉萨",
@@ -6001,6 +6015,7 @@
   },
   {
     "provinceName": "青海",
+    "provincePY": "qinghai",
     "city": [
       {
         "cityName": "西宁",
@@ -6296,6 +6311,7 @@
   },
   {
     "provinceName": "甘肃",
+    "provincePY": "gansu",
     "city": [
       {
         "cityName": "兰州",
@@ -6791,6 +6807,7 @@
   },
   {
     "provinceName": "宁夏",
+    "provincePY": "ningxia",
     "city": [
       {
         "cityName": "银川",
@@ -6921,6 +6938,7 @@
   },
   {
     "provinceName": "河南",
+    "provincePY": "henan",
     "city": [
       {
         "cityName": "郑州",
@@ -7636,6 +7654,7 @@
   },
   {
     "provinceName": "江苏",
+    "provincePY": "jiangsu",
     "city": [
       {
         "cityName": "南京",
@@ -8096,6 +8115,7 @@
   },
   {
     "provinceName": "湖北",
+    "provincePY": "hubei",
     "city": [
       {
         "cityName": "武汉",
@@ -8651,6 +8671,7 @@
   },
   {
     "provinceName": "浙江",
+    "provincePY": "zhejiang",
     "city": [
       {
         "cityName": "杭州",
@@ -9111,6 +9132,7 @@
   },
   {
     "provinceName": "安徽",
+    "provincePY": "anhui",
     "city": [
       {
         "cityName": "合肥",
@@ -9606,6 +9628,7 @@
   },
   {
     "provinceName": "福建",
+    "provincePY": "fujian",
     "city": [
       {
         "cityName": "福州",
@@ -10036,6 +10059,7 @@
   },
   {
     "provinceName": "江西",
+    "provincePY": "jiangxi",
     "city": [
       {
         "cityName": "南昌",
@@ -10566,6 +10590,7 @@
   },
   {
     "provinceName": "湖南",
+    "provincePY": "hunan",
     "city": [
       {
         "cityName": "长沙",
@@ -11156,6 +11181,7 @@
   },
   {
     "provinceName": "贵州",
+    "provincePY": "guizhou",
     "city": [
       {
         "cityName": "贵阳",
@@ -11651,6 +11677,7 @@
   },
   {
     "provinceName": "四川",
+    "provincePY": "sichuan",
     "city": [
       {
         "cityName": "成都",
@@ -12586,6 +12613,7 @@
   },
   {
     "provinceName": "广东",
+    "provincePY": "guangdong",
     "city": [
       {
         "cityName": "广州",
@@ -13246,6 +13274,7 @@
   },
   {
     "provinceName": "云南",
+    "provincePY": "yunnan",
     "city": [
       {
         "cityName": "昆明",
@@ -13981,6 +14010,7 @@
   },
   {
     "provinceName": "广西",
+    "provincePY": "guangxi",
     "city": [
       {
         "cityName": "南宁",
@@ -14516,6 +14546,7 @@
   },
   {
     "provinceName": "海南",
+    "provincePY": "hainan",
     "city": [
       {
         "cityName": "海口",
@@ -14741,6 +14772,7 @@
   },
   {
     "provinceName": "香港",
+    "provincePY": "xianggang",
     "city": [
       {
         "cityName": "香港",
@@ -14766,6 +14798,7 @@
   },
   {
     "provinceName": "澳门",
+    "provincePY": "aomen",
     "city": [
       {
         "cityName": "澳门",
@@ -14791,6 +14824,7 @@
   },
   {
     "provinceName": "台湾",
+    "provincePY": "taiwan",
     "city": [
       {
         "cityName": "台北",
